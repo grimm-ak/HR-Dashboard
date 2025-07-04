@@ -5,7 +5,7 @@
 2nd Major Analysis Project ft. Tableau
 
 
-This project presents an interactive HR Analytics Dashboard built using Tableau to analyze employee attrition patterns and workforce demographics. The dataset contains detailed employee-level data including department, job role, age, gender, satisfaction scores, and salary distribution.
+This project presents an interactive HR Analytics Dashboard built using Tableau to analyze employee attrition patterns and workforce demographics. The dataset contains detailed employee-level data including department, job role, age, gender, satisfaction scores, and salary distribution which were further gone through process of data cleaning through Excel.
 
 Key highlights of the dashboard:
 * 📊 Executive KPIs: Displays overall employee count, attrition count, attrition rate, and average age in a single glance.
