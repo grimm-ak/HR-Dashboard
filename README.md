@@ -1,4 +1,7 @@
 # HR-Dashboard
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/MajorProject-2HRANALYTICSDASHBOARD/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+
+
 2nd Major Analysis Project ft. Tableau
 
 
